@@ -1,4 +1,6 @@
-pandas
-plotly==5.5.0
-plotly.express
 streamlit
+pandas
+numpy
+scipy
+matplotlib
+plotly==5.9.0
