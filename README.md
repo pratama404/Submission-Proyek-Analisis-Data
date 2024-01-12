@@ -1,5 +1,5 @@
 
-# Submission Dicoding "Belajar Data Analytics dengan Python"
+# Submission "Belajar Data Analytics dengan Python"
 
 ## Project Data Analytics
 
@@ -10,12 +10,12 @@
 Proyek ini berupa analis data terhadap **ini** yang divisualisasikan secara cloud melalui sebuah website.Tujuan utamanya yakni untuk memberikan insight dan pemahaman mengenai informasi data
 
 ## Sumber Data
-Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
+Kaggle Bike Sharing Dataset [(Link Download)](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
 
 ## Struktur Direktori
 
 - **/dataset**: Merupakan Direktori Projek yang terdiri atas dataset yang berformat .csv
-- **/streamlit**: Terdiri atas file main.py yang merupakan kode utama dalam pembuatan visualisasi website
+- **app.py**: Terdiri atas file app.py yang merupakan kode utama dalam pembuatan visualisasi website
 - **notebook.ipynb**: File yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
@@ -45,7 +45,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
     streamlit run main.py
     ```
 2. Melakukan Akses secara Cloud (online):
-   [Project Data Analytics](link streamlit)
+   [Project Data Analytics](https://ucq66fjatnjgtvrbp6tngf.streamlit.app/)
 
 
 
