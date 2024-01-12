@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 
 @st.cache_resource
 def load_data():
-    data = pd.read_csv("https://raw.githubusercontent.com/pratama404/Submission-Proyek-Analisis-Data/main/BikeSharing/streamlit/hour.csv")
+    data = pd.read_csv("https://raw.githubusercontent.com/pratama404/Submission-Proyek-Analisis-Data/main/BikeSharing/dataset/hour.csv")
     return data
 
 
